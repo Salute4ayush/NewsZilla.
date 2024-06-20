@@ -1,4 +1,3 @@
-![image](https://github.com/Salute4ayush/NewsZilla./assets/102402263/76317097-c591-43f8-8398-662f310666cb)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
